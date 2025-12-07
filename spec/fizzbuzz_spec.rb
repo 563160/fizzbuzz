@@ -30,5 +30,6 @@ describe Fizzbuzz do
     it {subjurct.calculate(19).should eq '563160'}
     it {subjurct.calculate(29).should eq '563160'}
     it {subjurct.calculate(39).should eq '563160'}
+    it {subjurct.calculate(49).should eq '563160'}
   end
 end
